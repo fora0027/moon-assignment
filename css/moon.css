@@ -46,7 +46,7 @@ header{
     background: url(../img/moon-header.jpg) no-repeat right center #000000;
 }
 h1, h2, h3, h4{
-	font-family:serif;  /* you need a font stack here */
+	font-family:'droidserif', serif;  /* you need a font stack here */
     padding: 10px 40px;
     text-shadow: 2px 2px #333;
 }
@@ -144,6 +144,7 @@ a:hover, a:active, a:focus{
 .footer a:active,
 .footer a:focus{
 	color: #BADA55;
+    font-size: 1.03rem;
 }
 
 
